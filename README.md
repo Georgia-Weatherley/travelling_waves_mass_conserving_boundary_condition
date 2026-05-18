@@ -1,14 +1,18 @@
 ## Invading and receding travelling waves of a model with a mass-conserving, moving boundary
-This MATLAB code supports the manuscript "Invading and receding travelling waves of a model with a mass-conserving, moving boundary."
+This MATLAB code accompanies the manuscript "Invading and receding travelling waves of a model with a mass-conserving, moving boundary" by Georgia R. Weatherley, Adrianne L. Jenner, and Michael C. Dallaston. 
+
+School of Mathematical Sciences, Queensland
+University of Technology (QUT), Brisbane, Australia
 
 The main functions are: 
 - solve_phase_plane.m
 - Find_ustar_func.m
 
-The following scripts reproduce figures from the manuscript (named accordingly): 
+The following scripts reproduce figures from the manuscript (named accordingly). They can be run provided all functions (above) are in your current folder. 
 - Figure_2_script.m
 - Figure_3_script.m
 
+Below are examples of Figure 2 and Figure 7 from the manuscript:
 ![Phase_portrait](Figure_2_example.png)
 
 ![PDE_simulation](Figure_7_example.png)
