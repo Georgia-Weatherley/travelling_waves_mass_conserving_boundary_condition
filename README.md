@@ -1,7 +1,7 @@
 ## Invading and receding travelling waves of a model with a mass-conserving, moving boundary
-This MATLAB code accompanies the manuscript "Invading and receding travelling waves of a model with a mass-conserving, moving boundary" by Georgia R. Weatherley, Adrianne L. Jenner, and Michael C. Dallaston. 
+This MATLAB code accompanies the manuscript "Invading and receding travelling waves of a model with a mass-conserving, moving boundary" by Georgia R. Weatherley^1, Adrianne L. Jenner, and Michael C. Dallaston, 
 
-School of Mathematical Sciences, Queensland
+^1 School of Mathematical Sciences, Queensland
 University of Technology (QUT), Brisbane, Australia
 
 The main functions are: 
