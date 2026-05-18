@@ -1,3 +1,4 @@
+## Invading and receding travelling waves of a model with a mass-conserving, moving boundary
 This MATLAB code supports the manuscript "Invading and receding travelling waves of a model with a mass-conserving, moving boundary."
 
 The main functions are: 
