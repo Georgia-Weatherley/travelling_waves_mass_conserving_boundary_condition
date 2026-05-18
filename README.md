@@ -10,6 +10,7 @@ The main functions are:
 The following scripts reproduce figures from the manuscript (named accordingly). They can be run in MATLAB provided all functions (above) are in your current folder. 
 - Figure_2_script.m
 - Figure_3_script.m
+- Figure_5_script.m
 - Figure_7_script.m
 
 Below are examples of Figure 2, and Figure 7 from the manuscript:
