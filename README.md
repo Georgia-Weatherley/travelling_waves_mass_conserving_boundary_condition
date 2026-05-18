@@ -4,15 +4,19 @@ This MATLAB code accompanies the manuscript "Invading and receding travelling wa
 The main functions are: 
 - solve_phase_plane.m
 - Find_ustar_func.m
+- Solve_PDE_func.m
+- wave_speed_curve.mat
 
 The following scripts reproduce figures from the manuscript (named accordingly). They can be run provided all functions (above) are in your current folder. 
 - Figure_2_script.m
 - Figure_3_script.m
+- Figure_7_script.m
 
-Below are examples of Figure 2 and Figure 7 from the manuscript:
+Below are examples of Figure 2, and Figure 7 from the manuscript:
 ![Phase_portrait](Figure_2_example.png)
 
 ![PDE_simulation](Figure_7_example.png)
+
 
 
 Please email any enquiries to: georgia.weatherley@hdr.qut.edu.au
